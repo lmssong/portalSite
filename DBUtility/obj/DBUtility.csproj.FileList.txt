@@ -1,0 +1,6 @@
+bin\Debug\Maticsoft.DBUtility.dll
+bin\Debug\Maticsoft.DBUtility.pdb
+bin\Debug\MySql.Data.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Maticsoft.DBUtility.dll
+obj\Debug\Maticsoft.DBUtility.pdb

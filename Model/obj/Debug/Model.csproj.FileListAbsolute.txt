@@ -1,0 +1,6 @@
+E:\SL3Dev\sl3\TongYongSite\Model\bin\Debug\Maticsoft.Model.dll
+E:\SL3Dev\sl3\TongYongSite\Model\bin\Debug\Maticsoft.Model.pdb
+E:\SL3Dev\sl3\TongYongSite\Model\obj\Debug\Model.csprojAssemblyReference.cache
+E:\SL3Dev\sl3\TongYongSite\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\SL3Dev\sl3\TongYongSite\Model\obj\Debug\Maticsoft.Model.dll
+E:\SL3Dev\sl3\TongYongSite\Model\obj\Debug\Maticsoft.Model.pdb

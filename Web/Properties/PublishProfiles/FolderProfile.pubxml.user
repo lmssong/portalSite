@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+此文件由 Web 项目的发布/打包过程使用。可以通过编辑此 MSBuild 文件
+自定义此过程的行为。为了解与此相关的更多内容，请访问 https://go.microsoft.com/fwlink/?LinkID=208121。 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>E:\SL3Dev\portalSite</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Admin/Adddinggou.aspx">
+      <publishTime>09/04/2019 14:07:57</publishTime>
+    </File>
+    <File Include="Admin/Addfuwu.aspx">
+      <publishTime>09/04/2019 14:07:57</publishTime>
+    </File>
+    <File Include="Admin/Addjishu.aspx">
+      <publishTime>09/04/2019 14:08:09</publishTime>
+    </File>
+    <File Include="Admin/AddJob.aspx">
+      <publishTime>09/04/2019 14:08:21</publishTime>
+    </File>
+    <File Include="Admin/AddNews.aspx">
+      <publishTime>09/04/2019 14:08:41</publishTime>
+    </File>
+    <File Include="Admin/AddNiche.aspx">
+      <publishTime>09/04/2019 14:08:47</publishTime>
+    </File>
+    <File Include="Admin/AddProduct.aspx">
+      <publishTime>09/04/2019 14:09:06</publishTime>
+    </File>
+    <File Include="Admin/Addsuccess.aspx">
+      <publishTime>09/04/2019 14:09:11</publishTime>
+    </File>
+    <File Include="Admin/AddType.aspx">
+      <publishTime>09/04/2019 14:09:20</publishTime>
+    </File>
+    <File Include="Admin/AddUsers.aspx">
+      <publishTime>09/04/2019 14:09:30</publishTime>
+    </File>
+    <File Include="Admin/Addzhishi.aspx">
+      <publishTime>09/04/2019 14:09:36</publishTime>
+    </File>
+    <File Include="Admin/Addzixun.aspx">
+      <publishTime>09/04/2019 14:09:46</publishTime>
+    </File>
+    <File Include="Admin/companyInfo.aspx">
+      <publishTime>09/04/2019 14:09:56</publishTime>
+    </File>
+    <File Include="Admin/contents/left.ascx">
+      <publishTime>09/04/2019 13:50:10</publishTime>
+    </File>
+    <File Include="Admin/contents/top.ascx">
+      <publishTime>04/14/2011 11:55:04</publishTime>
+    </File>
+    <File Include="Admin/dinggouList.aspx">
+      <publishTime>09/04/2019 14:10:07</publishTime>
+    </File>
+    <File Include="Admin/dinggouModify.aspx">
+      <publishTime>09/04/2019 14:10:18</publishTime>
+    </File>
+    <File Include="Admin/fuwuInfo.aspx">
+      <publishTime>09/04/2019 14:10:39</publishTime>
+    </File>
+    <File Include="Admin/fuwuList.aspx">
+      <publishTime>09/04/2019 14:10:46</publishTime>
+    </File>
+    <File Include="Admin/fuwuModify.aspx">
+      <publishTime>09/04/2019 14:11:02</publishTime>
+    </File>
+    <File Include="Admin/gonggao.aspx">
+      <publishTime>09/04/2019 14:11:10</publishTime>
+    </File>
+    <File Include="Admin/hangyeInfo.html">
+      <publishTime>09/04/2019 14:11:32</publishTime>
+    </File>
+    <File Include="Admin/images/214324.jpg">
+      <publishTime>03/29/2011 10:19:30</publishTime>
+    </File>
+    <File Include="Admin/images/A613199575.jpg">
+      <publishTime>03/29/2011 10:19:30</publishTime>
+    </File>
+    <File Include="Admin/images/deng.jpg">
+      <publishTime>04/14/2011 09:18:46</publishTime>
+    </File>
+    <File Include="Admin/images/denglu.jpg">
+      <publishTime>04/14/2011 09:18:48</publishTime>
+    </File>
+    <File Include="Admin/images/out.gif">
+      <publishTime>04/14/2011 11:12:36</publishTime>
+    </File>
+    <File Include="Admin/images/qw.jpg">
+      <publishTime>03/29/2011 10:19:30</publishTime>
+    </File>
+    <File Include="Admin/images/qwqwe.jpg">
+      <publishTime>03/29/2011 10:19:30</publishTime>
+    </File>
+    <File Include="Admin/images/touchu.jpg">
+      <publishTime>04/14/2011 09:18:46</publishTime>
+    </File>
+    <File Include="Admin/images/wqewr.jpg">
+      <publishTime>03/29/2011 10:19:30</publishTime>
+    </File>
+    <File Include="Admin/images/首页_04.gif">
+      <publishTime>04/14/2011 11:11:16</publishTime>
+    </File>
+    <File Include="Admin/jishuInfo.aspx">
+      <publishTime>09/04/2019 14:11:40</publishTime>
+    </File>
+    <File Include="Admin/jishuList.aspx">
+      <publishTime>09/04/2019 14:11:48</publishTime>
+    </File>
+    <File Include="Admin/jishuModify.aspx">
+      <publishTime>09/04/2019 14:12:01</publishTime>
+    </File>
+    <File Include="Admin/JobInfo.aspx">
+      <publishTime>09/04/2019 14:12:11</publishTime>
+    </File>
+    <File Include="Admin/JobList.aspx">
+      <publishTime>09/04/2019 14:12:21</publishTime>
+    </File>
+    <File Include="Admin/JobModify.aspx">
+      <publishTime>09/04/2019 14:12:29</publishTime>
+    </File>
+    <File Include="Admin/js/Calendar1.js">
+      <publishTime>03/30/2011 12:31:58</publishTime>
+    </File>
+    <File Include="Admin/js/js.js">
+      <publishTime>04/14/2011 10:54:54</publishTime>
+    </File>
+    <File Include="Admin/login.aspx">
+      <publishTime>09/04/2019 13:06:24</publishTime>
+    </File>
+    <File Include="Admin/main.aspx">
+      <publishTime>09/04/2019 14:12:39</publishTime>
+    </File>
+    <File Include="Admin/MessInfo.aspx">
+      <publishTime>09/04/2019 14:12:44</publishTime>
+    </File>
+    <File Include="Admin/MessList.aspx">
+      <publishTime>09/04/2019 14:12:53</publishTime>
+    </File>
+    <File Include="Admin/NewsInfo.aspx">
+      <publishTime>09/04/2019 14:13:05</publishTime>
+    </File>
+    <File Include="Admin/NewsLIst.aspx">
+      <publishTime>09/04/2019 14:13:17</publishTime>
+    </File>
+    <File Include="Admin/NewsModify.aspx">
+      <publishTime>09/04/2019 14:13:24</publishTime>
+    </File>
+    <File Include="Admin/NicheInfo.aspx">
+      <publishTime>09/04/2019 14:13:36</publishTime>
+    </File>
+    <File Include="Admin/NicheList.aspx">
+      <publishTime>09/04/2019 14:13:45</publishTime>
+    </File>
+    <File Include="Admin/NicheModify.aspx">
+      <publishTime>09/04/2019 14:13:59</publishTime>
+    </File>
+    <File Include="Admin/ProductInfo.aspx">
+      <publishTime>09/04/2019 14:14:10</publishTime>
+    </File>
+    <File Include="Admin/ProductList.aspx">
+      <publishTime>09/04/2019 14:14:19</publishTime>
+    </File>
+    <File Include="Admin/ProductModify.aspx">
+      <publishTime>09/04/2019 14:14:32</publishTime>
+    </File>
+    <File Include="Admin/style/css.css">
+      <publishTime>09/04/2019 14:05:05</publishTime>
+    </File>
+    <File Include="Admin/style/style.css">
+      <publishTime>04/14/2011 09:24:54</publishTime>
+    </File>
+    <File Include="Admin/successInfo.aspx">
+      <publishTime>09/04/2019 14:14:41</publishTime>
+    </File>
+    <File Include="Admin/successList.aspx">
+      <publishTime>09/04/2019 14:14:52</publishTime>
+    </File>
+    <File Include="Admin/successModify.aspx">
+      <publishTime>09/04/2019 14:15:01</publishTime>
+    </File>
+    <File Include="Admin/tujianList.aspx">
+      <publishTime>09/04/2019 14:15:11</publishTime>
+    </File>
+    <File Include="Admin/tupian.aspx">
+      <publishTime>09/04/2019 14:15:21</publishTime>
+    </File>
+    <File Include="Admin/UsersModify.aspx">
+      <publishTime>09/04/2019 14:15:36</publishTime>
+    </File>
+    <File Include="Admin/wenhua.aspx">
+      <publishTime>09/04/2019 14:15:43</publishTime>
+    </File>
+    <File Include="Admin/zhishiInfo.aspx">
+      <publishTime>09/04/2019 14:16:17</publishTime>
+    </File>
+    <File Include="Admin/zhishiList.aspx">
+      <publishTime>09/04/2019 14:16:28</publishTime>
+    </File>
+    <File Include="Admin/zhishiModify.aspx">
+      <publishTime>09/04/2019 14:16:38</publishTime>
+    </File>
+    <File Include="Admin/zijianInfo.aspx">
+      <publishTime>09/04/2019 14:16:49</publishTime>
+    </File>
+    <File Include="Admin/zijianLIst.aspx">
+      <publishTime>09/04/2019 14:16:59</publishTime>
+    </File>
+    <File Include="Admin/zixunInfo.aspx">
+      <publishTime>09/04/2019 14:17:17</publishTime>
+    </File>
+    <File Include="Admin/zixunList.aspx">
+      <publishTime>09/04/2019 14:17:25</publishTime>
+    </File>
+    <File Include="Admin/zixunModify.aspx">
+      <publishTime>09/04/2019 14:17:39</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.compiled">
+      <publishTime>09/04/2019 14:23:30</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.dll">
+      <publishTime>09/04/2019 14:23:30</publishTime>
+    </File>
+    <File Include="bin/LTP.Accounts.dll">
+      <publishTime>03/22/2011 17:55:24</publishTime>
+    </File>
+    <File Include="bin/LtpPageControl.dll">
+      <publishTime>03/22/2011 17:55:24</publishTime>
+    </File>
+    <File Include="bin/Maticsoft.BLL.dll">
+      <publishTime>09/04/2019 12:46:55</publishTime>
+    </File>
+    <File Include="bin/Maticsoft.Common.dll">
+      <publishTime>03/22/2011 17:55:22</publishTime>
+    </File>
+    <File Include="bin/Maticsoft.DAL.dll">
+      <publishTime>09/04/2019 12:46:55</publishTime>
+    </File>
+    <File Include="bin/Maticsoft.DBUtility.dll">
+      <publishTime>09/04/2019 12:46:54</publishTime>
+    </File>
+    <File Include="bin/Maticsoft.Model.dll">
+      <publishTime>09/04/2019 12:46:54</publishTime>
+    </File>
+    <File Include="bin/Maticsoft.Web.dll">
+      <publishTime>09/04/2019 14:23:28</publishTime>
+    </File>
+    <File Include="bin/Maticsoft.Web.pdb">
+      <publishTime>09/04/2019 14:23:28</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.UI.WebControls.dll">
+      <publishTime>03/22/2011 17:55:22</publishTime>
+    </File>
+    <File Include="bin/MySql.Data.dll">
+      <publishTime>03/22/2011 17:55:28</publishTime>
+    </File>
+    <File Include="companyway.aspx">
+      <publishTime>09/04/2019 11:23:06</publishTime>
+    </File>
+    <File Include="Controls/buttom.ascx">
+      <publishTime>09/04/2019 11:56:38</publishTime>
+    </File>
+    <File Include="Controls/left.ascx">
+      <publishTime>04/14/2011 13:25:20</publishTime>
+    </File>
+    <File Include="Controls/left1.ascx">
+      <publishTime>05/26/2011 23:40:26</publishTime>
+    </File>
+    <File Include="Controls/left2.ascx">
+      <publishTime>05/26/2011 23:39:57</publishTime>
+    </File>
+    <File Include="Controls/top.ascx">
+      <publishTime>09/04/2019 11:22:17</publishTime>
+    </File>
+    <File Include="dinggou.aspx">
+      <publishTime>09/04/2019 11:23:07</publishTime>
+    </File>
+    <File Include="fuwu.aspx">
+      <publishTime>09/04/2019 11:23:07</publishTime>
+    </File>
+    <File Include="fuwuInfo.aspx">
+      <publishTime>09/04/2019 11:23:07</publishTime>
+    </File>
+    <File Include="huanjing.aspx">
+      <publishTime>09/04/2019 11:23:07</publishTime>
+    </File>
+    <File Include="images/01.jpg">
+      <publishTime>04/14/2011 17:01:20</publishTime>
+    </File>
+    <File Include="images/02.jpg">
+      <publishTime>04/14/2011 17:02:10</publishTime>
+    </File>
+    <File Include="images/03.jpg">
+      <publishTime>04/14/2011 17:01:44</publishTime>
+    </File>
+    <File Include="images/1.jpg">
+      <publishTime>03/24/2011 10:36:02</publishTime>
+    </File>
+    <File Include="images/12312.jpg">
+      <publishTime>03/24/2011 14:03:04</publishTime>
+    </File>
+    <File Include="images/2.jpg">
+      <publishTime>03/24/2011 10:36:02</publishTime>
+    </File>
+    <File Include="images/231.jpg">
+      <publishTime>03/24/2011 10:36:02</publishTime>
+    </File>
+    <File Include="images/3.jpg">
+      <publishTime>03/24/2011 10:36:02</publishTime>
+    </File>
+    <File Include="images/3232.png">
+      <publishTime>03/24/2011 10:36:02</publishTime>
+    </File>
+    <File Include="images/4.jpg">
+      <publishTime>03/24/2011 10:36:02</publishTime>
+    </File>
+    <File Include="images/5.jpg">
+      <publishTime>03/24/2011 10:36:02</publishTime>
+    </File>
+    <File Include="images/aniu.png">
+      <publishTime>04/08/2011 11:25:34</publishTime>
+    </File>
+    <File Include="images/anli.jpg">
+      <publishTime>03/24/2011 10:36:02</publishTime>
+    </File>
+    <File Include="images/bi.gif">
+      <publishTime>01/13/2011 13:54:24</publishTime>
+    </File>
+    <File Include="images/cha.jpg">
+      <publishTime>03/24/2011 10:36:02</publishTime>
+    </File>
+    <File Include="images/code2.JPG">
+      <publishTime>03/22/2011 17:55:24</publishTime>
+    </File>
+    <File Include="images/ewrw.jpg">
+      <publishTime>03/24/2011 10:36:02</publishTime>
+    </File>
+    <File Include="images/fre.jpg">
+      <publishTime>03/24/2011 10:36:02</publishTime>
+    </File>
+    <File Include="images/jsNav.png">
+      <publishTime>03/24/2011 10:36:02</publishTime>
+    </File>
+    <File Include="images/lianxi2.png">
+      <publishTime>03/24/2011 10:36:02</publishTime>
+    </File>
+    <File Include="images/logo.png">
+      <publishTime>09/04/2019 11:39:51</publishTime>
+    </File>
+    <File Include="images/main.swf">
+      <publishTime>04/14/2011 16:56:08</publishTime>
+    </File>
+    <File Include="images/main_bg.gif">
+      <publishTime>03/24/2011 10:36:02</publishTime>
+    </File>
+    <File Include="images/news.gif">
+      <publishTime>12/24/2010 12:19:06</publishTime>
+    </File>
+    <File Include="images/news.png">
+      <publishTime>03/24/2011 10:36:02</publishTime>
+    </File>
+    <File Include="images/nopic.gif">
+      <publishTime>12/21/2010 17:09:02</publishTime>
+    </File>
+    <File Include="images/pix.swf">
+      <publishTime>04/14/2011 17:28:02</publishTime>
+    </File>
+    <File Include="images/proe.jpg">
+      <publishTime>03/24/2011 10:36:02</publishTime>
+    </File>
+    <File Include="images/rencai.jpg">
+      <publishTime>03/24/2011 10:36:02</publishTime>
+    </File>
+    <File Include="images/rere.png">
+      <publishTime>03/24/2011 10:36:02</publishTime>
+    </File>
+    <File Include="images/tabbar.gif">
+      <publishTime>03/24/2011 10:36:02</publishTime>
+    </File>
+    <File Include="images/Thumbs.db">
+      <publishTime>03/22/2011 17:55:24</publishTime>
+    </File>
+    <File Include="images/title.jpg">
+      <publishTime>03/24/2011 10:36:02</publishTime>
+    </File>
+    <File Include="images/top1.gif">
+      <publishTime>03/22/2011 17:55:30</publishTime>
+    </File>
+    <File Include="images/topleft.jpg">
+      <publishTime>03/24/2011 10:36:02</publishTime>
+    </File>
+    <File Include="images/topright.jpg">
+      <publishTime>03/24/2011 10:36:02</publishTime>
+    </File>
+    <File Include="images/topzhong.jpg">
+      <publishTime>03/24/2011 10:36:02</publishTime>
+    </File>
+    <File Include="images/top_s_an.gif">
+      <publishTime>03/24/2011 10:36:02</publishTime>
+    </File>
+    <File Include="images/wer.jpg">
+      <publishTime>03/24/2011 10:36:02</publishTime>
+    </File>
+    <File Include="images/wr.jpg">
+      <publishTime>03/24/2011 10:36:02</publishTime>
+    </File>
+    <File Include="images/xuan.png">
+      <publishTime>03/24/2011 10:36:02</publishTime>
+    </File>
+    <File Include="images/xunli.png">
+      <publishTime>03/24/2011 10:36:02</publishTime>
+    </File>
+    <File Include="images/首页_04.gif">
+      <publishTime>05/27/2011 00:31:28</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>09/04/2019 13:19:28</publishTime>
+    </File>
+    <File Include="jieshao.aspx">
+      <publishTime>09/04/2019 11:23:07</publishTime>
+    </File>
+    <File Include="jishu.aspx">
+      <publishTime>09/04/2019 11:23:07</publishTime>
+    </File>
+    <File Include="job.aspx">
+      <publishTime>09/04/2019 11:23:07</publishTime>
+    </File>
+    <File Include="jobInfo.aspx">
+      <publishTime>09/04/2019 11:23:07</publishTime>
+    </File>
+    <File Include="js/Calendar1.js">
+      <publishTime>04/12/2011 13:21:32</publishTime>
+    </File>
+    <File Include="js/jquery-1.4a2.min.js">
+      <publishTime>05/26/2011 23:55:47</publishTime>
+    </File>
+    <File Include="js/jquery.js">
+      <publishTime>04/18/2011 10:44:00</publishTime>
+    </File>
+    <File Include="js/jquery.KinSlideshow-1.1.js">
+      <publishTime>05/26/2011 23:55:47</publishTime>
+    </File>
+    <File Include="js/jquery.KinSlideshow-1.2.1.min.js">
+      <publishTime>05/26/2011 23:55:47</publishTime>
+    </File>
+    <File Include="js/jssty.js">
+      <publishTime>03/24/2011 10:36:38</publishTime>
+    </File>
+    <File Include="js/lanrentuku.js">
+      <publishTime>03/24/2011 10:36:38</publishTime>
+    </File>
+    <File Include="js/scroll.js">
+      <publishTime>03/24/2011 10:36:38</publishTime>
+    </File>
+    <File Include="MasterPage.master">
+      <publishTime>09/04/2019 12:48:32</publishTime>
+    </File>
+    <File Include="message.aspx">
+      <publishTime>09/04/2019 11:23:07</publishTime>
+    </File>
+    <File Include="NewsInfo.aspx">
+      <publishTime>09/04/2019 11:23:07</publishTime>
+    </File>
+    <File Include="NewsList.aspx">
+      <publishTime>09/04/2019 12:49:32</publishTime>
+    </File>
+    <File Include="NicheInfo.aspx">
+      <publishTime>09/04/2019 11:23:07</publishTime>
+    </File>
+    <File Include="NicheList.aspx">
+      <publishTime>09/04/2019 11:23:07</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>09/04/2019 14:23:29</publishTime>
+    </File>
+    <File Include="product.aspx">
+      <publishTime>09/04/2019 11:23:07</publishTime>
+    </File>
+    <File Include="productInfo.aspx">
+      <publishTime>09/04/2019 11:23:07</publishTime>
+    </File>
+    <File Include="rencai.aspx">
+      <publishTime>09/04/2019 11:23:07</publishTime>
+    </File>
+    <File Include="Style.css">
+      <publishTime>03/22/2011 17:55:22</publishTime>
+    </File>
+    <File Include="style/css.css">
+      <publishTime>09/04/2019 13:08:39</publishTime>
+    </File>
+    <File Include="style/lanrenxixi.css">
+      <publishTime>03/24/2011 10:37:02</publishTime>
+    </File>
+    <File Include="success.aspx">
+      <publishTime>09/04/2019 11:23:07</publishTime>
+    </File>
+    <File Include="successInfo.aspx">
+      <publishTime>09/04/2019 11:23:07</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/04/2019 10:40:45</publishTime>
+    </File>
+    <File Include="wenhua.aspx">
+      <publishTime>09/04/2019 11:23:07</publishTime>
+    </File>
+    <File Include="xiangmu.aspx">
+      <publishTime>09/04/2019 11:23:07</publishTime>
+    </File>
+    <File Include="zhishi.aspx">
+      <publishTime>09/04/2019 11:23:07</publishTime>
+    </File>
+    <File Include="zhishiInfo.aspx">
+      <publishTime>09/04/2019 11:23:07</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

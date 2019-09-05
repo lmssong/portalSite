@@ -1,0 +1,5 @@
+bin\Debug\Maticsoft.Model.dll
+bin\Debug\Maticsoft.Model.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Maticsoft.Model.dll
+obj\Debug\Maticsoft.Model.pdb

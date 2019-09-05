@@ -1,0 +1,13 @@
+bin\Debug\Maticsoft.BLL.dll
+bin\Debug\Maticsoft.BLL.pdb
+bin\Debug\Maticsoft.Common.dll
+bin\Debug\Maticsoft.DAL.dll
+bin\Debug\Maticsoft.Model.dll
+bin\Debug\MySql.Data.dll
+bin\Debug\Maticsoft.DBUtility.dll
+bin\Debug\Maticsoft.DAL.pdb
+bin\Debug\Maticsoft.Model.pdb
+bin\Debug\Maticsoft.DBUtility.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Maticsoft.BLL.dll
+obj\Debug\Maticsoft.BLL.pdb

@@ -1,0 +1,13 @@
+E:\SL3Dev\sl3\TongYongSite\DAL\bin\Debug\Maticsoft.DAL.dll
+E:\SL3Dev\sl3\TongYongSite\DAL\bin\Debug\Maticsoft.DAL.pdb
+E:\SL3Dev\sl3\TongYongSite\DAL\bin\Debug\Maticsoft.Common.dll
+E:\SL3Dev\sl3\TongYongSite\DAL\bin\Debug\Maticsoft.DBUtility.dll
+E:\SL3Dev\sl3\TongYongSite\DAL\bin\Debug\Maticsoft.Model.dll
+E:\SL3Dev\sl3\TongYongSite\DAL\bin\Debug\MySql.Data.dll
+E:\SL3Dev\sl3\TongYongSite\DAL\bin\Debug\Maticsoft.DBUtility.pdb
+E:\SL3Dev\sl3\TongYongSite\DAL\bin\Debug\Maticsoft.Model.pdb
+E:\SL3Dev\sl3\TongYongSite\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\SL3Dev\sl3\TongYongSite\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\SL3Dev\sl3\TongYongSite\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\SL3Dev\sl3\TongYongSite\DAL\obj\Debug\Maticsoft.DAL.dll
+E:\SL3Dev\sl3\TongYongSite\DAL\obj\Debug\Maticsoft.DAL.pdb

@@ -1,0 +1,8 @@
+E:\SL3Dev\sl3\TongYongSite\DBUtility\bin\Debug\Maticsoft.DBUtility.dll
+E:\SL3Dev\sl3\TongYongSite\DBUtility\bin\Debug\Maticsoft.DBUtility.pdb
+E:\SL3Dev\sl3\TongYongSite\DBUtility\bin\Debug\MySql.Data.dll
+E:\SL3Dev\sl3\TongYongSite\DBUtility\obj\Debug\DBUtility.csprojAssemblyReference.cache
+E:\SL3Dev\sl3\TongYongSite\DBUtility\obj\Debug\DBUtility.csproj.CoreCompileInputs.cache
+E:\SL3Dev\sl3\TongYongSite\DBUtility\obj\Debug\DBUtility.csproj.CopyComplete
+E:\SL3Dev\sl3\TongYongSite\DBUtility\obj\Debug\Maticsoft.DBUtility.dll
+E:\SL3Dev\sl3\TongYongSite\DBUtility\obj\Debug\Maticsoft.DBUtility.pdb
